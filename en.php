@@ -34,7 +34,7 @@
                                 <div class="menuBtn-shadow"></div>
 
 
-                                <a class="logo" href="en.html"><img src="img/logo.svg" alt="logo"></a>
+                                <a class="logo" href="en.php"><img src="img/logo.svg" alt="logo"></a>
                                 <div class="menu">
                                     <ul class="menu-list">
                                         <li class="menu__item">
@@ -476,7 +476,7 @@
                                                         </svg>
                                                     </label>
                                                 </div>
-                                                <label for="check-agree" class="agree_text">I agree to the processing of personal data and accept <a href="en/pages/rules.html">exchange terms</a></label>
+                                                <label for="check-agree" class="agree_text">I agree to the processing of personal data and accept <a href="en/pages/rules.php">exchange terms</a></label>
                                             </div>
                                             <button class="form-btn" id="step1-btn">Create order</button>
                                         </div>

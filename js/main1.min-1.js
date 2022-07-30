@@ -71,6 +71,7 @@ $(function() {
         var e,
             t,
             r = $("#to_summ").val();
+
         0 < r ?
             ((e = $('input[name="Orders[currency_from]"]').val()),
                 (t = $('input[name="Orders[currency_to]"]').val()),
