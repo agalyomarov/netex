@@ -9,17 +9,14 @@
       <title>BITOKK</title>
       <meta name="csrf-param" content="_csrf-frontend">
       <meta name="csrf-token" content="e3-VJyMlK-foH09UWxVYsyEA9rksL4GbBlBimTJokZwBNeZgUmx6v6V-HBBjTx7XVnCu13hq46hqPTXoUS_yyQ==">
-
       <link href="assets/1fbd42ed/css/bootstrap.css" rel="stylesheet">
       <link href="css/site.css" rel="stylesheet">
       <link href="css/main.min.css" rel="stylesheet">
   </head>
 
   <body>
-
       <div class="wrapper">
           <div class="content">
-
               <header>
                   <div class="container">
                       <div class="row">

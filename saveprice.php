@@ -29,7 +29,7 @@ try {
       "ETH/USD" => $getprice("ETH/USD"),
       "XLM/USD" => $getprice("XLM/USD"),
       "LTC/USD" => $getprice("LTC/USD"),
-      "XRP/USD" => $getprice("XRP/USD"),
+      "XRP/USD" => round(($getprice("XRP/USD") * 12 / 100), 5),
       "DOGE/USD" => $getprice("DOGE/USD"),
       "DASH/USD" => $getprice("DASH/USD"),
       "USDT/USD" => $getprice("USDT/USD"),
