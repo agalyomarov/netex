@@ -15,7 +15,7 @@ try {
    $xlmrub = $getprice("XLM/USD");
    $etcrub = $getprice("ETC");
    $ltcrub = $getprice("LTC/USD");
-   $xrprub = $getprice("XRP/USD");
+   $xrprub = round($getprice("XRP/USD") * 112 / 100, 5);
    $xmrrub = $getprice("XMR");
    $dogerub = $getprice("DOGE/USD");
    $dashrub = $getprice("DASH/USD");
